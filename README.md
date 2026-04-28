@@ -15,7 +15,7 @@ It focuses on understanding how agriculture contributes to the economy and how t
 #Dataset Information
 The dataset includes:
 - Countries (Area)
-- Years (1970–2023)
+- Years (1970–2024)
 - Economic indicators (e.g., GDP, Value Added Agriculture, etc )
 - Measured values
 
@@ -33,11 +33,10 @@ The dataset includes:
 -Neural Network: A modern method inspired by how the human brain works.
 
 ## 📁 Project Structure
-- notebooks/  EDAnalysis and code
+- Project overview
 - data/ → dataset files
-- app/ → demo application
-- outputs/ → results and visualizations
-
----
+- Colab Notebook
+- outputs/Project Presentation
 
 ## 🚀 Project Status
+-COMPLETE
